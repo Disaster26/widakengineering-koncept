@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 86" role="img" aria-label="Widak Engineering">
+  <path fill="#979EB0" d="M4 10 L1 13 L1 82 L4 79 Z M4 79 L124 79 L121 82 L1 82 Z"/>
+  <path fill="#CBD5E1" d="M4 10 L22 10 L41 60 L52 41 L63 60 L118 60 L124 79 L4 79 Z"/>
+  <path fill="#B6600B" d="M22 10 L25 7 L31 7 L28 10 Z M58 39 L61 36 L61 6 L58 9 Z M72 9 L75 6 L111 6 L108 9 Z"/>
+  <path fill="#F8880B" d="M22 10 L28 10 L43.5 52 L52 37 L58 46 L58 9 L64 9 L64 60 L58 60 L52 48 L45 60 L39 60 Z M66 9 L108 9 L108 17 L72 17 L72 31 L101 31 L101 38 L72 38 L72 52 L118 52 L118 60 L66 60 Z"/>
+  <g fill="#2E3338" font-family="Titillium Web,Arial,sans-serif" font-weight="600">
+    <text x="0" y="0" font-size="7.4" letter-spacing="2.6" transform="translate(10.5 19) rotate(69)">WIDAK</text>
+    <text x="44" y="72.5" font-size="7.2" letter-spacing="2.35">ENGINEERING</text>
+  </g>
+</svg>
